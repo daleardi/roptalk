@@ -1,0 +1,7 @@
+C:\Source\GitHub\EasyMoneyFS\EasyMoneyFS\EasyMoneyFS.Calcutlators\bin\Debug\EasyMoneyFS.Calcutlators.XML
+C:\Source\GitHub\EasyMoneyFS\EasyMoneyFS\EasyMoneyFS.Calcutlators\bin\Debug\EasyMoneyFS.Calcutlators.dll
+C:\Source\GitHub\EasyMoneyFS\EasyMoneyFS\EasyMoneyFS.Calcutlators\bin\Debug\EasyMoneyFS.Calcutlators.pdb
+C:\Source\GitHub\EasyMoneyFS\EasyMoneyFS\EasyMoneyFS.Calcutlators\obj\Debug\EasyMoneyFS.Calcutlators.dll
+C:\Source\GitHub\EasyMoneyFS\EasyMoneyFS\EasyMoneyFS.Calcutlators\obj\Debug\EasyMoneyFS.Calcutlators.pdb
+C:\Source\GitHub\EasyMoneyFS\EasyMoneyFS\EasyMoneyFS.Calcutlators\bin\Debug\FSharp.Core.dll
+C:\Source\GitHub\EasyMoneyFS\EasyMoneyFS\EasyMoneyFS.Calcutlators\bin\Debug\FSharp.Core.xml
